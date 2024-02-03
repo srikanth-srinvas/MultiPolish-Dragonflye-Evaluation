@@ -118,7 +118,7 @@ dragonflye_out_1: Output directory for Command 1
 dragonflye_out_2: Output directory for Command 2
 ...
 Your contributions, feedback, and insights are welcomed as we continue to refine and expand this toolkit.
+
 Happy coding and genome crafting!
 
-Srikanth Srinivas 
-Central Research Laboratory
+

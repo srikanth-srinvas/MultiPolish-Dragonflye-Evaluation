@@ -8,13 +8,13 @@ MultiPolish-Dragonflye-Evaluation is a comprehensive repository designed to stre
 Acknowledgments
 We express our gratitude to the authors and developers of the tools utilized in this project:
 
-Dragonflye: [@rpetit3] https://github.com/rpetit3/dragonflye 
-Racon: [@isovic] https://github.com/isovic/racon 
-Medaka: [@nanoporetech] https://github.com/nanoporetech/medaka
-Pilon: [@broadinstitute] https://github.com/broadinstitute/pilon
-Polypolish: [@rrwick] https://github.com/rrwick/Polypolish 
-QUAST: [@ablab] https://github.com/ablab/quast 
-BUSCO: https://gitlab.com/ezlab/busco 
+1. Dragonflye: [@rpetit3] https://github.com/rpetit3/dragonflye 
+2. Racon: [@isovic] https://github.com/isovic/racon 
+3. Medaka: [@nanoporetech] https://github.com/nanoporetech/medaka
+4. Pilon: [@broadinstitute] https://github.com/broadinstitute/pilon
+5. Polypolish: [@rrwick] https://github.com/rrwick/Polypolish 
+6. QUAST: [@ablab] https://github.com/ablab/quast 
+7. BUSCO: https://gitlab.com/ezlab/busco 
 
 Standard Operating Procedure (SOP) for Evaluating Assemblies with Different Polishing Model Combinations
 Rationale:

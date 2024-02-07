@@ -13,7 +13,7 @@ Contributors: Varun Shamanna | Senior Bioinformatician | Central Research Labora
 Overview:
 MultiPolish-Dragonflye-Evaluation is a comprehensive repository designed to streamline and automate the optimization of genome assembly using the Dragonflye pipeline. The project includes a versatile set of scripts for running the pipeline with various combinations of polishing models on Illumina and Nanopore reads. The goal is to systematically evaluate the impact of different polishing model combinations on assembly quality and completeness, providing researchers with a flexible toolkit for optimizing genome assemblies.
 
-Acknowledgments
+Acknowledgments:
 We express our gratitude to the authors and developers of the tools utilized in this project:
 
 1. Dragonflye: [@rpetit3] https://github.com/rpetit3/dragonflye 

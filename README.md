@@ -128,7 +128,6 @@ Directory Structure
 dragonflye_out_1: Output directory for Command 1
 dragonflye_out_2: Output directory for Command 2
 ...
-Your contributions to expanding this toolkit.
 
 Happy coding and genome crafting!
 

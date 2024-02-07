@@ -97,35 +97,38 @@ for f in */*.fa; do busco -i $f -o $f --out_path /path/to/output_directory/busco
 Replace /path/to/output_directory/ with the desired output directory path.
 Replace /path/to/busco_lineages/ with the path to the BUSCO lineages directory.
 Execute the script: python busco_summarise_results.py /path/to/busco_summaries/
+
+
 extract_depth_from_logs.py
 This script extracts estimated sequencing depth and total number of base pairs from Dragonflye log files.
-
 Usage
 Replace 'your_parent_directory' with the actual path to the parent directory containing subdirectories.
 Replace 'depth_out.csv' with the desired output CSV file name.
 Execute the script: python extract_depth_from_logs.py
+
 calculate_contig_avg_depth.sh
 This script extracts contig depth from an assembled FASTA file and calculates the average depth for all contigs.
-
 Usage
 ./calculate_contig_avg_depth.sh <input_fasta_file>
 Replace <input_fasta_file> with the path to your assembled FASTA file.
+
+
 calculate_contig_avg_length.sh
 This script extracts contig length from an assembled FASTA file and calculates the average length for all contigs.
-
 Usage
 ./calculate_contig_avg_length.sh <input_fasta_file>
 Replace <input_fasta_file> with the path to your assembled FASTA file.
+
+
 extract_contig_stats.sh
 This script extracts the number of contigs and the number of circular contigs from a FASTA file.
-
 Usage
 ./extract_contig_stats.sh <input_fasta_file>
 Directory Structure
 dragonflye_out_1: Output directory for Command 1
 dragonflye_out_2: Output directory for Command 2
 ...
-Your contributions, feedback, and insights are welcomed as we continue to refine and expand this toolkit.
+Your contributions to expanding this toolkit.
 
 Happy coding and genome crafting!
 

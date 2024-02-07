@@ -124,6 +124,9 @@ extract_contig_stats.sh
 This script extracts the number of contigs and the number of circular contigs from a FASTA file.
 Usage
 ./extract_contig_stats.sh <input_fasta_file>
+
+
+
 Directory Structure
 dragonflye_out_1: Output directory for Command 1
 dragonflye_out_2: Output directory for Command 2

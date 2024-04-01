@@ -7,9 +7,6 @@ MultiPolish-Dragonflye-Evaluation
 
 
 
-
-Contributors: Varun Shamanna | Senior Bioinformatician | Central Research Laboratory, KIMS | @varunshamanna | varunshamanna4@gmail.com  
-
 This project includes a versatile set of scripts for running the pipeline with various combinations of polishing models on Illumina and Nanopore reads. The goal is to systematically evaluate the impact of different polishing model combinations on assembly quality and completeness, providing researchers with a flexible toolkit for optimizing genome assemblies.
 
 Acknowledgments:
